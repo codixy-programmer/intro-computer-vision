@@ -1,6 +1,6 @@
 """ This script accesses to pixels values of an image.
-It draws a rectagle from a quarter to three-quarters
-in rows and colums """
+It draws a rectangle from a quarter to three-quarters
+in rows and columns """
 import cv2
 
 IMGNAME = 'cat_01.jpg'
